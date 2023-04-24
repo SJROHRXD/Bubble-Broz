@@ -1,5 +1,5 @@
 export function Header() {
-    // add header elements and logic here
+    // Header
     const header = document.createElement('header');
     header.classList.add('header');
 
