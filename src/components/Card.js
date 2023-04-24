@@ -1,12 +1,8 @@
-// import card styles
 import './Card.css';
-
-// Modify to accept Product object as parameter
-// Modify to use Product object properties
 
 // State management
 
-export function Card(product) {
+export function Card(product, shoppingCart) {
     const card = document.createElement('div');
     card.classList.add('card');
 
@@ -30,6 +26,10 @@ export function Card(product) {
 
     const cardButton = document.createElement('button');
     cardButton.textContent = 'Add to Cart';
+    cardButton.addEventListener('click', () => {
+        shoppingCart.addItem(product);
+        // shoppingCart.style.display = 'block';
+    });
     card.appendChild(cardButton);
 
     return card;

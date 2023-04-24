@@ -1,6 +1,7 @@
 import './style.css';
 import { Header } from './components/Header.js';
 import { Card } from './components/Card.js';
+import { ShoppingCart } from './components/ShoppingCart.js';
 
 const app = document.querySelector('#app');
 
@@ -27,8 +28,12 @@ cardContainer.classList.add('card-container');
 app.appendChild(cardContainer);
 
 
-// Create and add cards with product data
+// Create and add cards with product data, 
 products.forEach((product) => {
-    const card = Card(product);
+    const card = Card(product, shoppingCart);
     cardContainer.appendChild(card);
 });
+
+// Create and add shopping cart
+const shoppingCart = ShoppingCart();
+app.appendChild(shoppingCart);
