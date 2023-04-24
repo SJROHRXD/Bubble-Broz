@@ -43,7 +43,6 @@
     BubbleBroz
         - client
             - 📂 public
-                - 📄 index.html
                 - favicon.svg
                 - logo.svg
             - 📂 src
@@ -59,6 +58,7 @@
                     - Component_3.js
                 - 📁 utils
                     - utility.js
+            - 📄 index.html
         - server
             - 📂 src
                 - 📕 app.js

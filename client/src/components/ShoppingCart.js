@@ -3,7 +3,7 @@ export function ShoppingCart() {
     cart.classList.add('shopping-cart');
 
     const cartTitle = document.createElement('h2');
-    // cartTitle.textContent = 'Shopping Cart';
+    cartTitle.textContent = 'Shopping Cart';
     // Make the Shopping Cart display a message when empty
     
     cart.appendChild(cartTitle);

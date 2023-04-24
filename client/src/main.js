@@ -27,6 +27,9 @@ const cardContainer = document.createElement('div');
 cardContainer.classList.add('card-container');
 app.appendChild(cardContainer);
 
+// Create and add shopping cart
+const shoppingCart = ShoppingCart();
+app.appendChild(shoppingCart);
 
 // Create and add cards with product data, 
 products.forEach((product) => {
@@ -34,6 +37,3 @@ products.forEach((product) => {
     cardContainer.appendChild(card);
 });
 
-// Create and add shopping cart
-const shoppingCart = ShoppingCart();
-app.appendChild(shoppingCart);
