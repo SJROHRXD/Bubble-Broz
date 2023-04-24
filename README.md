@@ -41,27 +41,36 @@
 ### File Structure
 
     BubbleBroz
-        - 📄 index.html
+        - client
+            - 📂 public
+                - 📄 index.html
+                - favicon.svg
+                - logo.svg
+            - 📂 src
+                - 📗 main.js
+                - style.css
+                - 📁 assets
+                    - image.png
+                    - image2.png
+                    - image3.png
+                - 📁 components
+                    - Component_1.js
+                    - Component_2.js
+                    - Component_3.js
+                - 📁 utils
+                    - utility.js
+        - server
+            - 📂 src
+                - 📕 app.js
+                - 📁 models
+                    - Product.js
+                - 📁 routes
+                    - products-routes.js
+                - 📁 controllers
+                    - products-controller.js
         - 🚛 package.json
         - 📋 vite.config.js
         - 👓 README.md
-        - 📂 public
-            - favicon.svg
-            - logo.svg
-        - 📂 src
-            - main.js
-            - style.css
-            - 📁 assets
-                - image.png
-                - image2.png
-                - image3.png
-            - 📁 components
-                - Component_1.js
-                - Component_2.js
-                - Component_3.js
-            - 📁 utils
-                - utility.js
-
 
 ### Front-End Components
 - [ ] Header
