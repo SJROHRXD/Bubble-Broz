@@ -6,19 +6,18 @@ import './Card.css';
 
 // State management
 
-export function Card() {
+export function Card(product) {
     const card = document.createElement('div');
     card.classList.add('card');
-    card.innerHTML = `Card`
 
     const cardTitle = document.createElement('h2');
-    cardTitle.textContent = 'Card Title';
+    cardTitle.textContent = product.title;
     card.appendChild(cardTitle);
 
 
     const cardImage = document.createElement('img');
-    cardImage.src = 'https://picsum.photos/200';
-    cardImage.alt = 'Card Image';
+    cardImage.src = product.image;
+    cardImage.alt = product.imageAlt;
     card.appendChild(cardImage);
 
     const cardDescription = document.createElement('p');
@@ -26,7 +25,7 @@ export function Card() {
     card.appendChild(cardDescription);
 
     const cardPrice = document.createElement('p');
-    cardPrice.textContent = `$9.99`;
+    cardPrice.textContent = `$ ${product.price}`;
     card.appendChild(cardPrice);
 
     const cardButton = document.createElement('button');
