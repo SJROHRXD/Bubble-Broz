@@ -6,13 +6,21 @@
 
 [Outline](##-OUTLINE)
 
-[](##-OUTLINE)
+[Features](##-FEATURES)
 
-[Outline](##-OUTLINE)
+[Installation](##-INSTALLATION)
 
-[Outline](##-OUTLINE)
+[Usage](##-OUTLINE)
 
-[Outline](##-OUTLINE)
+[Future Development](##-FUTURE-DEVELOPMENT)
+
+[License](##-LICENSE)
+
+[Contributions](##-CONTRIBUTIONS)
+
+[Resources](##-RESOURCES)
+
+[Acknowledgements](##-ACKNOWLEDGEMENTS)
 
 ## OUTLINE
 
@@ -67,4 +75,20 @@
 - [ ] Prepare App for PROD (Build + Minify)
 - [ ] Hosting Provider*
 - [ ] Deploy App + Domain Config, Etc.
+
+## FEATURES
+
+## INSTALLATION
+
+## USAGE
+
+## FUTURE DEVELOPMENT
+
+## LICENSE
+
+## CONTRIBUTIONS
+
+## RESOURCES
+
+## ACKNOWLEDGEMENTS
 
