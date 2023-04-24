@@ -38,6 +38,31 @@
 - [ ] Install dependencies
 - [ ] Set up development server
 
+### File Structure
+
+    BubbleBroz
+        - 📄 index.html
+        - 🚛 package.json
+        - 📋 vite.config.js
+        - 👓 README.md
+        - 📂 public
+            - favicon.svg
+            - logo.svg
+        - 📂 src
+            - main.js
+            - style.css
+            - 📁 assets
+                - image.png
+                - image2.png
+                - image3.png
+            - 📁 components
+                - Component_1.js
+                - Component_2.js
+                - Component_3.js
+            - 📁 utils
+                - utility.js
+
+
 ### Front-End Components
 - [ ] Header
     - Logo
