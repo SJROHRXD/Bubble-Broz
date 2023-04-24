@@ -46,7 +46,7 @@ export function Header() {
     // Cart
     const cart = document.createElement('a');
     cart.href = '/cart';
-    cart.innerHTML = '<i class="cart-icon"></i><span class="cart-counter">0</span>';
+    cart.innerHTML = `🛒<span class="cart-counter">0</span>`;
     header.appendChild(cart);
 
     return header;
