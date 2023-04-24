@@ -3,7 +3,7 @@
 >*Baths are for <mark>Men</mark>*
 
 <!-- Placeholder for Image -->
- ![Stock Bubble Photo](/BubbleBroz/public/stockBubbles.jpg)
+ ![Stock Bubble Photo](https://raw.githubusercontent.com/SJROHRXD/Bubble-Broz/master/public/stockBubbles.jpg)
 
 ## Table of Contents
 
