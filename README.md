@@ -2,7 +2,7 @@
 
 >*Baths are for <mark>Men</mark>*
 
-
+<!-- Placeholder for Image -->
 
 ## Table of Contents
 
@@ -18,7 +18,8 @@
 | 8      | [Resources](#RESOURCES)|
 | 9      | [Acknowledgements](#ACKNOWLEDGEMENTS)|
 
-<!-- - [Outline](#OUTLINE)
+<!-- Old Table of Contents
+- [Outline](#OUTLINE)
 - [Features](#FEATURES)
 - [Installation](#INSTALLATION)
 - [Usage](#USAGE)
