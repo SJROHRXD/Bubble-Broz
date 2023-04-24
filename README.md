@@ -1,10 +1,24 @@
 # Bubble Broz 🛒🧼✨
 
->*Baths are for Men*
+>*Baths are for <mark>Men</mark>*
+
+
 
 ## Table of Contents
 
-- [Outline](#OUTLINE)
+|Chapter |Link         |
+| :---   |    :----    |
+| 1      | [Outline](#OUTLINE)|
+| 2      | [Features](#FEATURES)|
+| 3      | [Installation](#INSTALLATION)|
+| 4      | [Usage](#USAGE)|
+| 5      | [Future Development](#FUTURE-DEVELOPMENT)|
+| 6      | [License](#LICENSE)|
+| 7      | [Contributions](#CONTRIBUTIONS)|
+| 8      | [Resources](#RESOURCES)|
+| 9      | [Acknowledgements](#ACKNOWLEDGEMENTS)|
+
+<!-- - [Outline](#OUTLINE)
 - [Features](#FEATURES)
 - [Installation](#INSTALLATION)
 - [Usage](#USAGE)
@@ -12,7 +26,7 @@
 - [License](#LICENSE)
 - [Contributions](#CONTRIBUTIONS)
 - [Resources](#RESOURCES)
-- [Acknowledgements](#ACKNOWLEDGEMENTS)
+- [Acknowledgements](#ACKNOWLEDGEMENTS) -->
 
 ## OUTLINE
 
