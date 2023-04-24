@@ -1,9 +1,13 @@
 // import card styles
 import './Card.css';
 
+// Modify to accept Product object as parameter
+// Modify to use Product object properties
+
+// State management
+
 export function Card() {
     const card = document.createElement('div');
-    // Add your card elements and logic here
     card.classList.add('card');
     card.innerHTML = `Card`
 
