@@ -4,23 +4,23 @@
 
 ## Table of Contents
 
-[Outline](##-OUTLINE)
+[Outline](#OUTLINE)
 
-[Features](##-FEATURES)
+[Features](#FEATURES)
 
-[Installation](##-INSTALLATION)
+[Installation](#INSTALLATION)
 
-[Usage](##-OUTLINE)
+[Usage](#USAGE)
 
-[Future Development](##-FUTURE-DEVELOPMENT)
+[Future Development](#FUTURE-DEVELOPMENT)
 
-[License](##-LICENSE)
+[License](#LICENSE)
 
-[Contributions](##-CONTRIBUTIONS)
+[Contributions](#CONTRIBUTIONS)
 
-[Resources](##-RESOURCES)
+[Resources](#RESOURCES)
 
-[Acknowledgements](##-ACKNOWLEDGEMENTS)
+[Acknowledgements](#ACKNOWLEDGEMENTS)
 
 ## OUTLINE
 
