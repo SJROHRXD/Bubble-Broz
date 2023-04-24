@@ -1,25 +1,39 @@
-# BubbleBroz 🛒🧼✨
+# Bubble Broz 🛒🧼✨
+
+>*Baths are for Men*
+
+## Table of Contents
+
+[Outline](##-OUTLINE)
+
+[](##-OUTLINE)
+
+[Outline](##-OUTLINE)
+
+[Outline](##-OUTLINE)
+
+[Outline](##-OUTLINE)
 
 ## OUTLINE
 
 ### Project Setup
-- Create new project folder
-- Set up version control
-- Install dependencies
-- Set up development server
+- [x] Create new project folder
+- [x] Set up version control
+- [ ] Install dependencies
+- [ ] Set up development server
 
 ### Front-End Components
-- Header
+- [ ] Header
     - Logo
     - Navigation
     - Shopping Cart + Icon + Item Count
-- Product Catalog
+- [ ] Product Catalog
     - Cards + Titles + Images + Prices + Add-to-Cart Button
-- Shopping Cart
+- [ ] Shopping Cart
     - Display Products + Quantities + Prices
     - Edit + Remove Quantities
     - Subtotal + Total
-- Checkout
+- [ ] Checkout
     - Proceed to Checkout Button
     - Shipping and Billing
         - Form + Address + Notes
@@ -32,9 +46,9 @@
         - Thank You Message
 
 ### BackEnd Server + API
-- Express Server
-- Create Product Database*
-- Define API Routes + EndPoints
+- [ ] Express Server
+- [ ] Create Product Database*
+- [ ] Define API Routes + EndPoints
     - GET Products
     - POST Cart
     - PUT Cart
@@ -42,15 +56,15 @@
     - POST Checkout
 
 ### State Management
-- State Management Library*
-- Actions, Reducers, Mutations for Shopping Cart
+- [ ] State Management Library*
+- [ ] Actions, Reducers, Mutations for Shopping Cart
 
 ### Styling + Responsiveness
-- CSS Framework*
-- Mobile-Friendly Design
+- [ ] CSS Framework*
+- [ ] Mobile-Friendly Design
 
 ### Deployment + Hosting
-- Prepare App for PROD (Build + Minify)
-- Hosting Provider*
-- Deploy App + Domain Config, Etc.
+- [ ] Prepare App for PROD (Build + Minify)
+- [ ] Hosting Provider*
+- [ ] Deploy App + Domain Config, Etc.
 
